@@ -1,0 +1,9 @@
+# Windows toplu iş dosyaları ve kod CRLF ile bitsin (Windows'ta garantili çalışsın)
+*.bat text eol=crlf
+*.rs text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+
+# İkililer
+*.png binary
+*.ico binary

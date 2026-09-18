@@ -1,0 +1,15 @@
+# Derleme çıktıları
+/target
+/Cikti
+
+# Derleyici önbellekleri
+**/*.rs.bk
+
+# Editör
+.vscode/
+.idea/
+
+# İşletim sistemi
+Thumbs.db
+Desktop.ini
+.DS_Store
